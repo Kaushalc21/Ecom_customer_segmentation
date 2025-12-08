@@ -76,9 +76,8 @@ RFM is a proven industry standard used by Amazon, Walmart, and most e-commerce a
 Each value reveals a different part of the customer lifecycle.
 
 
-<p align="center">
-  <img src="imgs/Screenshot 2025-12-08 115735" width="30%">
-</p>
+![Screenshot](imgs/Screenshot%202025-12-08%20115735.png)  
+
 
 RFM helps businesses:
 
@@ -97,6 +96,9 @@ RFM helps businesses:
 - Works well with normalized continuous features  
 - Creates spherical clusters  
 - Good for RFM datasets  
+
+![Screenshot](imgs/Screenshot%202025-12-08%20120114.png)  
+
 
 ### ### 2️⃣ **Agglomerative Clustering**
 - Hierarchical clustering  
@@ -121,22 +123,21 @@ A customer might be:
 Soft clustering provides richer understanding for personalized targeting.
 
 
-<p align="center">
-  <img src="imgs/Screenshot 2025-12-08 115652" width="30%">
-</p>
+![Screenshot](imgs/Screenshot%202025-12-08%20123310.png)  
+
 
 ---
 
 ## 🧠 Why Segmentation Matters (Explained)
 
 
-<p align="center">
-  <img src="imgs/Screenshot 2025-12-08 115735..png" width="70%">
-</p>
+<![Screenshot](imgs/Screenshot%202025-12-08%20115652.png)  
+
 
 > “This project converts raw transactional data into business-driven customer intelligence.  
 > Using RFM and clustering models (KMeans, Hierarchical, and GMM), I segmented customers into behavioral groups such as Champions, Inactive Users, One-Time Buyers, and Loyal Customers.  
 > These insights help reduce marketing costs, improve customer retention, and identify revenue-driving groups.  
 > The project demonstrates the complete journey from data cleaning → feature engineering → segmentation → dashboard visualization, similar to real-world e-commerce analytics pipelines.”
 
+![Screenshot](imgs/Screenshot%202025-12-08%20115954.png)  
 
