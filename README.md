@@ -142,9 +142,4 @@ Soft clustering provides richer understanding for personalized targeting.
 > These insights help reduce marketing costs, improve customer retention, and identify revenue-driving groups.  
 > The project demonstrates the complete journey from data cleaning → feature engineering → segmentation → dashboard visualization, similar to real-world e-commerce analytics pipelines.”
 
----
-
-## 📸 How to Add Dashboard Screenshots (Instructions)
-
-Place your images in a folder:
 
