@@ -15,7 +15,7 @@ The insights can be directly used for marketing personalization, retention strat
 
 
 <p align="center">
-  <img src="imgs/Screenshot 2025-12-08 114919" width="30%">
+  <img src="imgs/Screenshot 2025-12-08 114919..png" width="30%">
 </p>
 
 ---
@@ -130,11 +130,11 @@ Soft clustering provides richer understanding for personalized targeting.
 
 ---
 
-## 🧠 Why Segmentation Matters (Explained Like in an Interview)
+## 🧠 Why Segmentation Matters (Explained)
 
 
 <p align="center">
-  <img src="imgs/Screenshot 2025-12-08 115735" width="30%">
+  <img src="imgs/Screenshot 2025-12-08 115735.png" width="30%">
 </p>
 
 > “This project converts raw transactional data into business-driven customer intelligence.  
