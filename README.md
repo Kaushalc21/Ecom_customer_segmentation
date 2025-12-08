@@ -134,7 +134,7 @@ Soft clustering provides richer understanding for personalized targeting.
 
 
 <p align="center">
-  <img src="imgs/Screenshot 2025-12-08 115735.png" width="30%">
+  <img src="imgs/Screenshot 2025-12-08 115735..png" width="70%">
 </p>
 
 > “This project converts raw transactional data into business-driven customer intelligence.  
