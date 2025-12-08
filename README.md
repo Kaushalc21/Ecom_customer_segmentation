@@ -13,7 +13,7 @@ This project focuses on **segmenting e-commerce customers** based on their purch
 The segmentation output helps businesses understand **customer value, loyalty, purchase intent, and revenue contribution**.  
 The insights can be directly used for marketing personalization, retention strategies, and targeted promotions.
 
-![Screenshot](imgs/Screenshot_2025-12-08_114919.png)
+![Screenshot](imgs/Screenshot%202025-12-08%20114919.png)
 
 ---
 
